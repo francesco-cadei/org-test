@@ -18,8 +18,8 @@ $$\frac{\partial u}{\partial x} = \frac{\partial vuu}{\partial y}, \quad \frac{\
 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
-
-casetto
+** oiuoi
+casetto $$x^{1.01}$$
 
 | abf | cde | abfr    |
 |-----+-----+---------|
@@ -28,11 +28,11 @@ casetto
 |     |     |         |
 
 
-| $$X^\alpha = \alpha X^{\alpha - 1}$$ | $$a^x = a^x \ln a$$ | $$\log_\alpha x = \frac{1}{x}\log_\alpha e$$ |
+| $$ X^\alpha = \alpha X^{\alpha - 1} $$ | $$a^x = a^x \ln a$$ | $$\log_\alpha x = \frac{1}{x}\log_\alpha e$$ |
 
 
 $$
-x^\alpha = \alpha x^{\alpha - 1}
+x^\alpha = \alpha x^{\alpha-1}
 $$
 
 $$
@@ -47,3 +47,66 @@ $$
 - $x^\alpha = \alpha x^{\alpha - 1}$
 - $a^x = a^x \ln a$
 - $\log_\alpha x = \frac{1}{x}\log_\alpha e$
+
+\[ x^{2 \alpha} - 1 = y_{ij} + y_{ij}  \]
+
+\[ (a^n)^{r+s} = a^{nr+ns}  \]
+
+\begin{equation}
+x=\sqrt{b}
+\end{equation}
+
+* gg2
+Here are some examples of simple usage of subscripts and superscripts:
+
+\[ \int\limits_0^1 x^2 + y^2 \ dx \]
+
+\vspace{1cm}
+
+Using superscript and subscripts in the same expression
+
+\[ a_1^2 + a_2^2 = a_3^2 \]
+
+\vspace{1cm}
+
+Longer subscripts and superscripts:
+
+\[ x^{2 \alpha} - 1 = y_{ij} + y_{ij}  \]
+
+\vspace{1cm}
+
+Nested subscripts and superscripts
+
+\[
+(a^n)^{r+s} = a^{nr+ns}
+\]
+
+\vspace{1cm}
+
+Example of a mathematical equation with subscripts and superscripts
+
+\[
+\sum_{i=1}^{\infty} \frac{1}{n^s} = \prod_p \frac{1}{1 - p^{-s}}
+\]
+
+\vspace{1cm}
+
+Squared root usage
+
+\[ \sqrt[4]{4ac} = \sqrt{4ac}\sqrt{4ac} \]
+
+The exponential function can be expressed as:
+
+$$
+f(x) = a \cdot e^{bx}
+$$
+
+where:
+- $a$ is the coefficient
+- $b$ is the growth rate
+- $e$ is Euler's number, approximately equal to 2.71828
+
+In a practical example, if $a = 1$ and $b = 2$, the expression simplifies to $f(x) = e^{2x}$.
+
+
+https://latex.codecogs.com/svg.image?$f(x)=e^{2x}$

@@ -29,6 +29,21 @@ casetto
 
 
 | $$X^\alpha = \alpha X^{\alpha - 1}$$ | $$a^x = a^x \ln a$$ | $$\log_\alpha x = \frac{1}{x}\log_\alpha e$$ |
-|------------------------------------+-------------------+--------------------------------------------|
-|                                    |                   |                                            |
-|                                    |                   |                                            |
+
+
+$$
+x^\alpha = \alpha x^{\alpha - 1}
+$$
+
+$$
+a^x = a^x \ln a
+$$
+
+$$
+\log_\alpha x = \frac{1}{x}\log_\alpha e
+$$
+
+
+- $x^\alpha = \alpha x^{\alpha - 1}$
+- $a^x = a^x \ln a$
+- $\log_\alpha x = \frac{1}{x}\log_\alpha e$

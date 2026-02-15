@@ -15,6 +15,7 @@ $$\frac{\partial u}{\partial x} = \frac{\partial vuu}{\partial y}, \quad \frac{\
   plt.show()
 #+end_src
 
+
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 
@@ -27,6 +28,7 @@ casetto
 |     |     |         |
 
 
-| $X^\alpha = \alpha X^{\alpha - 1}$ | $a^x = a^x \ln a$ | $\log_\alpha x = \frac{1}{x}\log_\alpha e$ |
+| $$X^\alpha = \alpha X^{\alpha - 1}$$ | $$a^x = a^x \ln a$$ | $$\log_\alpha x = \frac{1}{x}\log_\alpha e$$ |
 |------------------------------------+-------------------+--------------------------------------------|
+|                                    |                   |                                            |
 |                                    |                   |                                            |

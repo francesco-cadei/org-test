@@ -4,13 +4,6 @@ $\int 4^x dx$
 $$\frac{\partial u}{\partial x} = \frac{\partial vuu}{\partial y}, \quad \frac{\partial u}{\partial y} = -\frac{\partial v}{\partial x}$$
 
 
-
-\begin{tikzpicture}
-\draw[gray, thick] (-1,2) -- (2,-4);
-\draw[gray, thick] (-1,-1) -- (2,2);
-\filldraw[black] (0,0) circle (2pt) node[anchor=west]{Intersection point};
-\end{tikzpicture}
-
 #+begin_src python
   import matplotlib.pyplot as plt
   import numpy as np
@@ -33,12 +26,3 @@ casetto
 | uu  | yy  | iouohrd |
 |     |     |         |
 
-
-#+begin_src plantuml :file images/theme-uml.png
-!theme spacelab
-a -> b
-b -> c
-#+end_src
-
-#+RESULTS:
-[[file:images/theme-uml.png]]
